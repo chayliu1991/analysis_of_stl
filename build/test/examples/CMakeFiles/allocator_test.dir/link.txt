@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wall -Werror -Wno-unused-parameter -std=c++11 -march=native -rdynamic -o2 -DNODEBUG -rdynamic CMakeFiles/allocator_test.dir/allocator_test.cpp.o -o ../../bin/allocator_test 

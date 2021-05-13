@@ -1,7 +1,0 @@
-/devdata/liuchuanyang/stl/build/CMakeFiles/rebuild_cache.dir
-/devdata/liuchuanyang/stl/build/CMakeFiles/edit_cache.dir
-/devdata/liuchuanyang/stl/build/test/CMakeFiles/rebuild_cache.dir
-/devdata/liuchuanyang/stl/build/test/CMakeFiles/edit_cache.dir
-/devdata/liuchuanyang/stl/build/test/examples/CMakeFiles/edit_cache.dir
-/devdata/liuchuanyang/stl/build/test/examples/CMakeFiles/rebuild_cache.dir
-/devdata/liuchuanyang/stl/build/test/examples/CMakeFiles/allocator_test.dir

@@ -27,11 +27,3 @@ struct __true_type{};
 struct __false_type{};
 ```
 
-
-
-
-
-
-
-
-
